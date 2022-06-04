@@ -3,9 +3,9 @@
 this function can be used instead of global variable.
  
 if i==0
-the function return 0
+the function return 0 &&
 if i ==1
-the function return 1
+the function return 1 &&
 else
 the function return the value stored in the static variable.
 
