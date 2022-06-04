@@ -1,4 +1,4 @@
-# my_globale
+# my_global
 
 this function can be used instead of global variable.
  
