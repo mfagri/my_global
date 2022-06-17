@@ -10,6 +10,6 @@ else
 the function return the value stored in the static variable.
 
 Static variables have a property of preserving their value even after they are out of their scope! Hence, static variables preserve their previous value in their previous scope and are not initialized again in the new scope. 
-Syntax: 
+Syntax : 
 
 static data_type var_name = var_value;
